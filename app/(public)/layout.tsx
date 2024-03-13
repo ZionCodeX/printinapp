@@ -8,7 +8,7 @@ import { barlow, dancingScript, oswald } from '@/app/ui/fonts';
 
 
 export const metadata: Metadata = {
-  title: "Printing NG",
+  title: "PrintIn",
   description: "Printing Starts Here",
 };
 
