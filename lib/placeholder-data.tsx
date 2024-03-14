@@ -1,3 +1,5 @@
+export {};
+
 const invoices = [
     {
       customer_id: 1,
@@ -13,3 +15,5 @@ const invoices = [
     },
     // ...
   ];
+
+  
